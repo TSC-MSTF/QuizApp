@@ -13,7 +13,7 @@ Oyun Eşleştirme Sistemi
 - Her iki oyuncuda bir bir oyun oluşturulmuş ve diğer oyuncuların oyunları ile karışmaması için game sözlüğüne kaydedilir.
 
 
--Mustafa Taşçı
--Şevket Sinan Dönder 
--Berk Osman Civek
--Cemalettin Yakar
+- Mustafa Taşçı
+- Şevket Sinan Dönder 
+- Berk Osman Civek
+- Cemalettin Yakar
